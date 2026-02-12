@@ -1,3 +1,4 @@
+
 \# 🧍 AI-Based Smart Posture Monitoring and Correction System
 
 
@@ -269,4 +270,6 @@ The WISDM dataset contains real accelerometer data collected from smartphones an
 \### Webcam Mode
 
 
+=======
+>>>>>>> ab3a6bc422ff073fc98d1c2fbf320ccd669e6c4d
 
